@@ -4,5 +4,3 @@
 - *C++ spaghetti enthusiast, enjoying the crafting of 'disgusting code'* 
 
 I love both simple and complex things.  🔥
-
-##
