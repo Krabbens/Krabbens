@@ -1,6 +1,6 @@
 ##
-- *Connoisseur of the unique art that is "Shit Code"* 
-- *Devoted aficionado of the elegance of Python's one-liners* 
-- *C++ spaghetti enthusiast, enjoying the crafting of 'disgusting code'* 
+- Python & C++ enthusiast 💻
+- PyQt enjoyer 🚀
+- Vue.js beginner 🌱
 
-I love both simple and complex things.  🔥
+Currently exploring the intersection of Python, C++, and PyQt while venturing into Vue.js for frontend development.
