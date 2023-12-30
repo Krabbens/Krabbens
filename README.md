@@ -1,8 +1,4 @@
 ##
-- Python & C++ enthusiast 💻
-- PyQt enjoyer 🚀
-- Vue.js beginner 🌱
+python, c++, vue
 
-Currently exploring the intersection of Python, C++, and PyQt while venturing into Vue.js for frontend development.
-
-📫 [LinkedIn](https://www.linkedin.com/in/kosma-g%C4%85siorowski-3a139b239/)
+[LinkedIn](https://www.linkedin.com/in/kosma-g%C4%85siorowski-3a139b239/)
